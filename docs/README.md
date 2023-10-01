@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 主页
 bgImage: bg.jpg
 heroText: Good Morning,
 tagline: and in case I don't see you, good afternoon, good evening, and good night.
