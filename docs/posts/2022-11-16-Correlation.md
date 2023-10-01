@@ -53,11 +53,11 @@ Spearman相关系数又称秩相关系数，是利用两变量的秩次大小作
 
 ## 对 Pearson 和 Spearman 系数进行比较
 
-![Relacation1](../images/Relacation1.png)Pearson = +0.851，Spearman = +1
+![Relacation1](/assets/images/Relacation1.png)Pearson = +0.851，Spearman = +1
 
-![Relacation2](../images/Relacation2.png)Pearson = -0.799，Spearman = -1
+![Relacation2](/assets/images/Relacation2.png)Pearson = -0.799，Spearman = -1
 
-![Relacation3](../images/Relacation3.png)图形显示非常强的关系，但Pearson 系数和 Spearman 系数都近似 0。
+![Relacation3](/assets/images/Relacation3.png)图形显示非常强的关系，但Pearson 系数和 Spearman 系数都近似 0。
 
 相关系数对应的相关强度如下：
 
