@@ -19,7 +19,7 @@ export default hopeTheme({
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
-  docsDir: "src",
+  docsDir: "docs",
   pure: true,
   // navbar
   navbar,
@@ -148,24 +148,24 @@ export default hopeTheme({
     //   manifest: {
     //     icons: [
     //       {
-    //         src: "/assets/icon/chrome-mask-512.png",
+    //         docs: "/assets/icon/chrome-mask-512.png",
     //         sizes: "512x512",
     //         purpose: "maskable",
     //         type: "image/png",
     //       },
     //       {
-    //         src: "/assets/icon/chrome-mask-192.png",
+    //         docs: "/assets/icon/chrome-mask-192.png",
     //         sizes: "192x192",
     //         purpose: "maskable",
     //         type: "image/png",
     //       },
     //       {
-    //         src: "/assets/icon/chrome-512.png",
+    //         docs: "/assets/icon/chrome-512.png",
     //         sizes: "512x512",
     //         type: "image/png",
     //       },
     //       {
-    //         src: "/assets/icon/chrome-192.png",
+    //         docs: "/assets/icon/chrome-192.png",
     //         sizes: "192x192",
     //         type: "image/png",
     //       },
@@ -177,7 +177,7 @@ export default hopeTheme({
     //         url: "/demo/",
     //         icons: [
     //           {
-    //             src: "/assets/icon/guide-maskable.png",
+    //             docs: "/assets/icon/guide-maskable.png",
     //             sizes: "192x192",
     //             purpose: "maskable",
     //             type: "image/png",

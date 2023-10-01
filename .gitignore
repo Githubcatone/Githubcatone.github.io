@@ -1,8 +1,8 @@
 
 node_modules/
-src/demo/
-src/posts/
-src/.vuepress/.cache/
-src/.vuepress/.temp/
-src/.vuepress/public/
-src/.vuepress/styles/
+docs/demo/
+docs/posts/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/public/
+docs/.vuepress/styles/
