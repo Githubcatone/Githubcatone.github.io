@@ -18,8 +18,8 @@ projects:
     link: /posts/2023-04-06-websites.md/
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
+    name: 色卡
+    desc: 配色收藏
     link: https://你的书籍链接
 
 # footer: 自定义你的页脚文字
