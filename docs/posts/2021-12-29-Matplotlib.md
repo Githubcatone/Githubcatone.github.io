@@ -2,7 +2,8 @@
 title: Matplotlib
 date: 2021-12-29
 ---
-# Cheat sheet
+
+## Cheat sheet
 
 ![page_1](/assets/images/Matplotlib/page_1.jpg)
 
